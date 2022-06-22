@@ -1,3 +1,3 @@
 # RyanTodoList
-lien vers la démo : <a href="https://mrryanwise.github.io/RyanTodoList/">Ici :) </a>
+ <a href="https://mrryanwise.github.io/RyanTodoList/">lien vers la démo : Ici :) </a><br>
 <img src="RyanTodoList.gif"/>
